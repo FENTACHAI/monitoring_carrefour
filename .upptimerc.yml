@@ -9,7 +9,7 @@ sites:
 
 status-website: # Status website (optional)
   baseUrl: /upptime-fentech
-  name: https://aissi17.github.io/upptime-fentech/
+  name: https://clairvoyant-carreofur.github.io/upptime-fentech/
 
 workflowSchedule:
   graphs: "0 0 * * *"
